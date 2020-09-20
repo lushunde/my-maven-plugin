@@ -14,7 +14,7 @@
 
 pom.xml文件修改为插件
 
-> <packaging>maven-plugin</packaging>
+> \<packaging\>maven-plugin\</packaging\>
 
 ## 增加依赖包
 
